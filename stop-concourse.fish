@@ -1,4 +1,4 @@
 #!/usr/bin/env fish
 
-docker-compose -f docker-compose-quickstart.yml down
+docker-compose down
 docker ps -a
